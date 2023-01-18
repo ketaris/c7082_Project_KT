@@ -6,4 +6,5 @@ The goal is to design a deep learning neural network that can identify different
 
 Images source: https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-dataset
 
+Bounding boxes on images for use in YOLOv5 were placed using Roboflow: https://universe.roboflow.com/ha-data-science/yolov5_yoga/dataset/2
 
